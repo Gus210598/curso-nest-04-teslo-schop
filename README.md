@@ -14,10 +14,10 @@
 docker compose up
 ```
 
-6. Ejecutar SEED
+6. Levantar modo desarrollo: `yarn start:dev`
+
+7. Ejecutar SEED
 
 ```
 http://localhost:3000/api/seed
 ```
-
-7. Levantar modo desarrollo: `yarn start:dev`
